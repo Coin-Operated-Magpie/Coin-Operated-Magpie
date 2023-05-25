@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Coin-Operated-Magpie
 - 👀 I’m interested in taking my first professional programming steps
 - 🌱 I’m currently learning Python
-- 📫 How to reach me wintersmith-chau@tutanota.com
